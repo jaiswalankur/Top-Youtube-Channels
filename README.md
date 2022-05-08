@@ -1,5 +1,5 @@
 # Top 5000 YouTube Channels
-CSV and SQL dump of top 5000 YouTube channels.
+CSV and SQL dump of top 5000 YouTube channels by subscriber count.
 
 This CSV & SQL files contains these datapoints -
 - Channel ID (can be used to call the YouTube Data API)
