@@ -8,5 +8,5 @@ This CSV & SQL files contain these datapoints -
 - Channel Country
 - Total Views
 - Total Subscribers
-- 
+
 I have used the YouTube API to extract the data, however there may be a few channels missing.
